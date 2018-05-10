@@ -1,5 +1,8 @@
 # Warehouse Inventory Management System Capstone Project
 
+Team Members:
+David Kirkman, Charles Garnette, Emily Chiou, Eric Bridges
+
 ## Prerequisites
 ```
 1. JDK 10 or JRE 8
