@@ -4,7 +4,7 @@ Team Members:
 David Kirkman, Charles Garnette, Emily Chiou, Eric Bridges
 
 ## Overview
-The Warehouse Inventory Management (WIM) system is a stand-alone warehouse management package with a user-friendly interface and a stable database foundation. Created to be intuitive, it requires minimal training. Designed with minimal overhead in mind, it can be installed on any modern Windows based computer. 
+The Warehouse Inventory Management (WIM) system is a stand-alone warehouse management package with a user-friendly interface and a stable database foundation. Created to be intuitive, it requires minimal training. Designed with minimal overhead in mind, it can be installed on any modern computer. 
 
 
 The WIM system allows a user to manage all on-hand inventory and incoming or outgoing orders. 
