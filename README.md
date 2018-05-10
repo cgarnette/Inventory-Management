@@ -73,7 +73,7 @@ After adding all items to the new shipment, click “Create Shipment” to add t
 ###### Outgoing Shipment
 To initiate a new Outgoing Shipment, click the “New Outgoing Shipment button on the Main Screen.
 
-![alt text](images//new_out.PNG)
+![alt text](images//new_out.png)
 
 Within the New Incoming Shipment window, enter the Order Number, Truck Number, Vendor ID, and select the order date. To add a new item to the order, select its Inventory ID from the Part Number drop down list. After adding all items to the new shipment, click “Create Shipment” to remove the outgoing quantity from inventory, save the order, and return to the Main Screen.
 
