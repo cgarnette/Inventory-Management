@@ -11,3 +11,6 @@ Warehouse Inventory Management System Capstone Project
 ```
 Download Inventory Manager.jar
 ```
+## Usage
+
+![alt text](images/login.png)
