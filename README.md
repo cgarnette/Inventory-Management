@@ -13,4 +13,4 @@ Download Inventory Manager.jar
 ```
 ## Usage
 
-![alt text](images//login.png)
+![alt text](images//login.PNG)
