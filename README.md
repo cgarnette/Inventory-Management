@@ -8,12 +8,12 @@ The Warehouse Inventory Management (WIM) system is a stand-alone warehouse manag
 
 
 The WIM system allows a user to manage all on-hand inventory and incoming or outgoing orders. 
-	* It provides a quick, low-impact transition from older spreadsheet or traditional paper record keeping. 
-	* With a list of all items, their location, and quantity on the main screen, complete inventory oversight is simple. 
-		This list can be sorted at the users request and provides a method for searching for an item. 
-	* Each item in inventory has a complete details pane which includes the order history of incoming and outgoing shipments, as well as an updatable location to be used when physical warehouse reorganization becomes necessary. 
-	* Shipments, incoming or outgoing, can be managed from the main screen. 
-		With a simple interface for all shipments, items can be added as incoming or outgoing and have their on-hand quantities adjusted accordingly.
+* It provides a quick, low-impact transition from older spreadsheet or traditional paper record keeping. 
+* With a list of all items, their location, and quantity on the main screen, complete inventory oversight is simple. 
+	- This list can be sorted at the users request and provides a method for searching for an item. 
+* Each item in inventory has a complete details pane which includes the order history of incoming and outgoing shipments, as well as an updatable location to be used when physical warehouse reorganization becomes necessary. 
+* Shipments, incoming or outgoing, can be managed from the main screen. 
+	- With a simple interface for all shipments, items can be added as incoming or outgoing and have their on-hand quantities adjusted accordingly.
 
 
 ## Prerequisites
